@@ -23,7 +23,7 @@ The NDE certification validates fundamental knowledge of network security contro
 ## 📂 Repository Structure
 
 The repository is organized logically by exam domains and practical modules to help you find specific study assets quickly:
-
+```
 ├── 01-Network-Security-Fundamentals/   # OSI Model, TCP/IP, Ports & Protocols
 ├── 02-Identification-Authentication/   # Access Controls, IAM, and MFA Mechanisms
 ├── 03-Network-Defense-Controls/       # Firewall rules, IDS/IPS configuration, Honeypots
@@ -33,7 +33,7 @@ The repository is organized logically by exam domains and practical modules to h
 ├── 07-Endpoint-Security-Hardening/    # OS patching, anti-malware, and baseline configurations
 ├── Labs-and-Exercises/                # Practical lab sheets, Wireshark captures, and commands
 └── Cheat-Sheets/                      # Quick reference guides for common ports, tools, and terms
-
+```
 ---
 
 ## 💻 Practical Skills & Tools Covered
